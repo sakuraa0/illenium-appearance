@@ -606,6 +606,7 @@ AddEventHandler("onResourceStop", function(resource)
         SetNuiFocus(false, false)
         SetNuiFocusKeepInput(false)
     end
+    exports['qs-inventory']:setInClothing(false)
 end)
 
 exports("startPlayerCustomization", client.startPlayerCustomization)
