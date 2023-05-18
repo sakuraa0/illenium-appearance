@@ -1,2 +1,2 @@
-# illenium-appearence
- Qs-inventory fix clothes 
+# illenium-appearance
+ illenium-appearance compactibility with qs-inventory clothes!
